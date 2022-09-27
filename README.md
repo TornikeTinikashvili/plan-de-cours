@@ -18,7 +18,7 @@
 
 # 5. Exercices En Cours Formation
 
-> TP1_GIT_v01.pdf
+>TP1_GIT_v01.pdf
 >
 >TP1_GIT_v01.pdf
 >
@@ -29,3 +29,4 @@
 # 7. Bilan Formation
 
 # 8. Parcours Entreprise
+
