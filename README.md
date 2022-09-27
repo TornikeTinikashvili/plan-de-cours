@@ -16,17 +16,17 @@
 
 
 
-Cours_Git
+Cours_Git.pdf
 
-notice_gitlocal_github
+notice_gitlocal_github.pdf
 
 # 5. Exercices En Cours Formation
 
-TP1_GIT_v01
+TP1_GIT_v01.pdf
 
-TP1_GIT_v01
+TP1_GIT_v01.pdf
 
-TP1_GIT_v01
+TP1_GIT_v01.pdf
 
 # 6. Mes Projets
 
