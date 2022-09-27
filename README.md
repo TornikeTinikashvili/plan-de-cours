@@ -12,6 +12,10 @@ planning octobre 2
 
 # 4)Mes Supports Cours
 
+Cours_Git
+
+notice_gitlocal_github
+
 # 5)Exercices En Cours Formation
 
 TP1_GIT_v01
