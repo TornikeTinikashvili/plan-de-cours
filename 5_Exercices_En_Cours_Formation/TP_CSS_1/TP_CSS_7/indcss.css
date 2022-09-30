@@ -1,0 +1,17 @@
+#div1 {
+    background-image: radial-gradient(circle at center,rgb(195, 195, 255),pink);
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+#div2 {
+    background-image: repeating-radial-gradient(black,white 10px);
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+#div2:hover {
+    background-image: repeating-radial-gradient(white,black 10px);
+}

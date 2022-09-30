@@ -1,0 +1,11 @@
+li:nth-child(2n+1) {
+    color: blue;
+}
+li:hover:nth-child(2n+1) {
+    color: green;
+    background-color: greenyellow;
+    width: 100%;
+}
+.amenu:hover:nth-child(2n+1) {
+    background-color: aquamarine;
+}

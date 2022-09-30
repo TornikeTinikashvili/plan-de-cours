@@ -1,0 +1,9 @@
+h1 {
+    text-shadow: 22px -5px 5px;
+}
+p{
+    box-shadow: 15px 0px 15px black;
+}
+.para2 {
+    box-shadow: -10px 10px 10px green;
+}
