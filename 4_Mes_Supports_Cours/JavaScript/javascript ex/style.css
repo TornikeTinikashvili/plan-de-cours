@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+#buttons {
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 200px;
+    
+}
+#alphabet li{
+    background-color: red;
+}
